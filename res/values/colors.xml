@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="back_splash_color">#31B404</color>
+    <color name="label_color">#5E2D79</color>
+    <color name="heading_color">#5E2D79</color>
+    <color name="value_color">#5E2D79</color>
+<color name="back_color">#ECF6CE</color>
+</resources>
